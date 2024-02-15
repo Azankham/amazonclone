@@ -1,0 +1,46 @@
+.azan1{
+   background: red;
+   color: white;
+   width: 1000px;
+   height: 100px;
+   text-align: center;
+   font-size: 2rem;
+}
+.azan2{
+    background: rgb(22, 22, 97);
+    width: 1000px;
+    height: 200px;
+    position: relative;
+}
+.azan3{
+    background: red;
+    width: 1000px;
+    height: 100px;
+ 
+
+ }
+ .azan4{
+
+    color: black;
+    background:white;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    position: absolute;
+    right:450px;
+    top: 50px;
+    text-align: center;
+    font-size: 3rem;
+  
+
+  
+ }
+p{
+    margin: 0;
+    padding: 0;
+}
+
+ .faizan{
+    border: 3px solid black;
+ }
+ 

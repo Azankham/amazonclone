@@ -1,0 +1,22 @@
+.cat{
+    
+    background: rgb(132, 238, 233);
+    float: left;
+    
+}
+.dog{
+   
+    background: orangered;
+    float: right;
+}
+img{
+    float: left;
+}
+footer{
+    text-align: center;
+    background: rgb(55, 55, 238);
+    clear: both;
+}
+/* h1{
+    float: left;
+} */

@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+.red{
+    display: inline-block;
+    background: red;
+    width: 200px;
+    height: 200px;
+}
+.green{
+    display: inline-block;
+    background: green;
+    width: 200px;
+    height: 200px;
+}
+.blue{
+    display: inline-block;
+    background: blue;
+    width: 200px;
+    height: 200px;
+}

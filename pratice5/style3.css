@@ -1,0 +1,22 @@
+h2{
+    color: orangered;
+}
+h6{
+    font-weight: 2000;
+}
+span{
+    color: rgb(5, 5, 90);
+}
+img{
+    height: 130px;
+    width: 200px;
+    float: left;
+    margin: 20px;
+   
+}
+.Beauty{
+   display: inline-block;
+}
+.Construction{
+    display: inline-block;
+}

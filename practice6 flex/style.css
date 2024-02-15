@@ -1,0 +1,53 @@
+body{
+    font-family: sans-serif;
+}
+.container{
+    display: flex;
+   align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 5rem;
+    
+}
+.box1{
+    background-color:rgba(151, 145, 145, 0.322);
+    display: inline-block;
+    width: 350px;
+    text-align: center;
+   
+
+}
+.box2{
+    background-color:rgba(151, 145, 145, 0.308);
+    display: inline-block;
+    width: 350px;
+    text-align: center;
+   
+
+
+}
+.box3{
+    background-color:rgba(151, 145, 145, 0.336);
+    display: inline-block;
+    width: 350px;
+    text-align: center;
+    
+
+}
+button{
+    background-color: orangered;
+    color: beige;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+
+}
+@media(max-width: 1250px) {
+    .container {
+        flex-direction: column;
+        height: 100%;
+    }
+}
+a{
+    color: aliceblue;
+}
